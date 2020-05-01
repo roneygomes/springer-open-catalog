@@ -1,0 +1,5 @@
+.idea
+.DS_Store
+
+downloaded/*.pdf
+downloaded/*.epub
